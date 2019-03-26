@@ -94,7 +94,7 @@ input {
     }
     54% {
         transform: translateX(20px);
-    }
+    } 
     61% {
         transform: translateX(0);
     }
